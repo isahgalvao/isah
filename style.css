@@ -1,1 +1,10 @@
-header{background-color: #383d58; color:#ffffff;}
+.cabecalho{
+    background-color: #383d58;
+     color:#ffffff;
+     display: flex;
+     justify-content: space-around;
+
+     .cabecalho-imagem{
+        width: 20%;
+
+     }
